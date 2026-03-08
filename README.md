@@ -1,27 +1,28 @@
-# Workforce-and-Attrition-Analysis
+# Workforce and Attrition Analysis
 
-Domain: HR Analytics 
+**Domain:** HR Analytics
 
-Business Requirement 
+## Business Requirement
+The HR leadership team required a centralized dashboard to monitor workforce metrics and analyze employee attrition trends.
 
-The HR leadership team wanted: 
+## Key Metrics
+- Headcount growth  
+- Attrition rate  
+- Gender distribution  
+- Salary distribution  
+- Work mode (Onsite / Hybrid / Remote)  
+- Facility benefits usage (Cab & Food)
 
-  o A centralized workforce overview dashboard 
-  o Real-time visibility into: 
-  o Headcount growth 
-  o Attrition rate 
-  o Gender distribution 
-  o Salary distribution 
-  o Work mode breakdown (Onsite / Hybrid / Remote) 
-  o Facility benefits usage (Cab & Food) 
-  • Attrition trend analysis across: 
-  o Year 
-  o Department 
-  o Role Level 
-  o Gender 
-  o Experience Band 
-  o Identification of top attrition drivers 
-  o KPI tracking for leadership decision-making
+## Attrition Analysis
+Attrition trends analyzed across:
+- Year  
+- Department  
+- Role Level  
+- Gender  
+- Experience Band  
+
+## Tools Used
+Power BI, Excel
 
 <img width="1378" height="825" alt="image" src="https://github.com/user-attachments/assets/f59bb0d6-03c1-47bf-a80a-a197180e15fd" />
 
