@@ -22,6 +22,8 @@ o Experience Band
 o Identification of top attrition drivers 
 o KPI tracking for leadership decision-making
 
+<img width="1378" height="825" alt="image" src="https://github.com/user-attachments/assets/f59bb0d6-03c1-47bf-a80a-a197180e15fd" />
+
 
 Insights: 
 
